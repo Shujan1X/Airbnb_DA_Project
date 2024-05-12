@@ -1,4 +1,4 @@
-# Virat Kohli Cricket Data Analysis
+# Indian Cricket Player Data Analysis (Virat Kohli)
 
 ## Overview
 This project delves into analyzing Indian cricket player Virat Kohli's batting performance from his debut in 2008 to the present across ODIs, Tests, and T20 matches. Focusing on statistical data, it aims to unveil trends, strengths, and areas for improvement in Kohli's batting technique and consistency. Through comprehensive data analysis, this study seeks to provide insights into Kohli's evolution as a batsman, his impact on various formats of the game, and his contributions to the Indian cricket team.
